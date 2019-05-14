@@ -1,0 +1,11 @@
+.header {
+  align-items: center;
+  display: flex;
+  margin: $l-size 0;
+}
+
+.main-heading {
+  color: $purple;
+  font-size: $xl-size;
+  padding-left: $m-size;
+}
