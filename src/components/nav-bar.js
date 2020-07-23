@@ -6,7 +6,7 @@ import navbarStyles from './nav-bar.module.css'
 const NavBar = () => {
   return (
     <>
-      <nav>
+      <nav className={navbarStyles.navBarContainer}>
         <ul className={navbarStyles.navBar}>
           <li>
             <Link activeClassName={navbarStyles.active} to="/">
