@@ -9,7 +9,9 @@ const NavBar = () => {
       <nav>
         <ul className={navbarStyles.navBar}>
           <li>
-            <Link to="/blog">Home</Link>
+            <Link activeClassName={navbarStyles.active} to="/">
+              Home
+            </Link>
           </li>
           <li>
             <Link to="/players">Players</Link>
