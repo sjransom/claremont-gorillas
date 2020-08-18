@@ -10,8 +10,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1 className={homeStyles.mainHeading}>More than a club...</h1>
     <p>
-      London Gorillas are a football team who play in the Wimbledon & District
-      League.
+      Claremont Gorillas are a football team who play in the Wimbledon &
+      District League.
     </p>
   </Layout>
 )

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `London Gorillas`,
-    description: `London Gorillas are a football team who play in the Wimbledon & District League`,
+    title: `Claremont Gorillas`,
+    description: `Claremont Gorillas are a football team who play in the Wimbledon & District League`,
     author: `@sjransom`,
   },
   plugins: [

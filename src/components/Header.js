@@ -5,9 +5,9 @@ import headerStyles from './header.module.css'
 
 const Header = () => (
   <header className={headerStyles.header}>
-    <div className={headerStyles.headerContent}>
+    <section className={headerStyles.headerContent}>
       <NavBar />
-    </div>
+    </section>
   </header>
 )
 
